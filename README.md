@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Oussama Amou</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from Morocco</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 - 🔭 I’m currently working on **A Freelance Marketplace Platform**
 
