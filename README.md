@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://pbs.twimg.com/media/FpGmNhVakAAmZdy?format=jpg&name=4096x4096" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/fa/dc/b2/fadcb24075acb650de29f258af69d830.gif" alt="Banner" width="100%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Oussama Amou</h1>
