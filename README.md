@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/052/004/767/original/yurii-ray-06-gif-export-200.gif?1658731969" alt="Banner" width="100%">
+  <img src="https://i.redd.it/goync7gu5j191.jpg" alt="Banner" width="100%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Oussama Amou</h1>
