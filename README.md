@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="[https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg](https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif)" alt="Banner" width="100%">
+  <img src="[[https://t4.ftcdn.net/jpg/08/86/49/53/360_F_886495385_XudXZcfZb7FqTwSWpDjwOEWfsol6Sw6e.jpg](https://64.media.tumblr.com/ebf74887520abe1b1fbed76f463af135/tumblr_pew3zxiCR71rnbw6mo1_1280.gif)](https://miro.medium.com/v2/resize:fit:2000/0*eIhVp0KXrXSSHORN.gif)" alt="Banner" width="100%">
 </h1>
 
 <h1 align="center">Hi 👋, I'm Oussama Amou</h1>
