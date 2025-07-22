@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://ma.linkedin.com/in/oussama-amou?logo=linkedin&logoColor=white&style=for-the-badge" height="32" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="32" alt="linkedin logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="32" alt="instagram logo"  />
 </div>
