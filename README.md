@@ -7,9 +7,13 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="32" alt="linkedin logo"  />
+  <a href="https://ma.linkedin.com/in/oussama-amou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="32" alt="linkedin logo"  />
+  </a>
   <img width="10" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="32" alt="instagram logo"  />
+  <a href="https://www.instagram.com/_oussamou_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="32" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
